@@ -22,7 +22,7 @@ https://github.com/douglasdemoura/omarchy-pierre-dark-theme
 
 ## Notes
 
-- Backgrounds and preview images are not included yet.
+- Desktop backgrounds and the theme preview image are not included yet.
 
 - Colors are taken from [pierrecomputer/theme](https://github.com/pierrecomputer/theme),
   MIT licensed (see LICENSE).
