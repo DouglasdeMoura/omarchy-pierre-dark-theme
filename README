@@ -24,6 +24,9 @@ Usage:
 
   https://github.com/douglasdemoura/omarchy-pierre-dark-theme
 
+ Terminal:
+  omarchy theme install https://github.com/douglasdemoura/omarchy-pierre-dark-theme
+
   Available themes:
    - Pierre Dark           https://github.com/douglasdemoura/omarchy-pierre-dark-theme
    - Pierre Dark Soft      https://github.com/douglasdemoura/omarchy-pierre-dark-soft-theme
