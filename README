@@ -1,0 +1,33 @@
+PIERRE COMPUTER COMPANY █
+PROJECT: OMARCHY THEME
+
+~~~
+
+THEME: PIERRE DARK
+SOURCE: GITHUB.COM/PIERRECOMPUTER/THEME
+LICENSE: MIT
+STATUS: ONLINE
+
+~~~
+
+Overview:
+ - The standard dark palette.
+ - Ported from the official Pierre theme for Visual Studio Code, Cursor, Zed, and Shiki.
+
+~~~
+
+Usage:
+
+ Omarchy:
+  1. Super + Space > "Install > Style > Theme"
+  2. Paste:
+
+  https://github.com/douglasdemoura/omarchy-pierre-dark-theme
+
+  Available themes:
+   - Pierre Dark           https://github.com/douglasdemoura/omarchy-pierre-dark-theme
+   - Pierre Dark Soft      https://github.com/douglasdemoura/omarchy-pierre-dark-soft-theme
+   - Pierre Dark Vibrant   https://github.com/douglasdemoura/omarchy-pierre-dark-vibrant-theme  (Display P3)
+   - Pierre Light          https://github.com/douglasdemoura/omarchy-pierre-light-theme
+   - Pierre Light Soft     https://github.com/douglasdemoura/omarchy-pierre-light-soft-theme
+   - Pierre Light Vibrant  https://github.com/douglasdemoura/omarchy-pierre-light-vibrant-theme  (Display P3)
