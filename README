@@ -13,6 +13,7 @@ STATUS: ONLINE
 Overview:
  - The standard dark palette.
  - Ported from the official Pierre theme for Visual Studio Code, Cursor, Zed, and Shiki.
+ - Mercury chrome blob over a solid field, reflecting an empty warehouse.
 
 ~~~
 
@@ -34,3 +35,12 @@ Usage:
    - Pierre Light          https://github.com/douglasdemoura/omarchy-pierre-light-theme
    - Pierre Light Soft     https://github.com/douglasdemoura/omarchy-pierre-light-soft-theme
    - Pierre Light Vibrant  https://github.com/douglasdemoura/omarchy-pierre-light-vibrant-theme  (Display P3)
+
+~~~
+
+Credits:
+
+ Background photograph by Craftsman Concrete Floors on Unsplash
+ (unsplash.com/photos/empty-industrial-warehouse-with-polished-concrete-floor-NADTQRbS0s4),
+ used under the Unsplash License (unsplash.com/license).
+ The blob is an original render reflecting that photograph.
